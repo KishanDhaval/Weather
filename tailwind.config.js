@@ -1,14 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ['./src/**/*.{js,ts,jsx,tsx}', './public/index.html'],
   theme: {
     extend: {
       fontFamily: {
-        sans: ['"Poppins"', 'sans-serif'], // Add Roboto to the default sans font
-        skill:['"Londrina Sketch"' , 'sans-serif'],
-        work:['"Work Sans"' , 'sans-serif'],
+        roboto: ['Roboto', 'sans-serif'], // Add your Google Font
+        popins: ["Poppins", "serif"], // Add your Google Font
       },
     },
   },
   plugins: [],
-}
+};
