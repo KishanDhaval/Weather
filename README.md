@@ -10,4 +10,5 @@ for deploy on github page
         "preview": "vite preview",
         "predeploy": "npm run build",
         "deploy":"gh-pages -d dist"
+    5 npm run deploy
 ```
