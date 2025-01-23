@@ -27,3 +27,4 @@ for deploy on github page
     5 npm run deploy
 ```
 ![Image](https://github.com/user-attachments/assets/29c600a7-2849-4455-afdc-e317782ea429)
+![Image](https://github.com/user-attachments/assets/30af4085-3b03-4953-a38c-3440cb5c80fb)
