@@ -26,3 +26,4 @@ for deploy on github page
         "deploy":"gh-pages -d dist"
     5 npm run deploy
 ```
+![Image](https://github.com/user-attachments/assets/29c600a7-2849-4455-afdc-e317782ea429)
